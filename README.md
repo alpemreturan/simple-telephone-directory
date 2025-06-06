@@ -17,4 +17,4 @@ o delete → Delete person
 o search → Search person by name 
 o list → List alphabetically 
 o exit → End the program 
-• Adding people with the same name should not be allowed
+• Adding people with the same name should not be allowed. 
